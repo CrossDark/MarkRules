@@ -1,6 +1,6 @@
 # Obsidian 示例插件
 
-这是一个 Obsidian 的示例插件（https://obsidian.md）。
+这是一个 Obsidian 的示例插件(https://obsidian.md)
 
 该项目使用 TypeScript 提供类型检查和文档支持。
 该仓库依赖于 TypeScript 定义格式下的最新插件 API（obsidian.d.ts），其中包含描述其功能的 TSDoc 注释。
