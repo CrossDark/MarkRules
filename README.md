@@ -16,7 +16,7 @@
 
 新插件开发者的快速入门指南：
 
-- 检查是否已有其他人开发了您需要的插件(https://obsidian.md/plugins)！可能已有足够相似的现有插件，您可以与之合作。
+- 检查是否已有其他人开发了您需要的插件(https://obsidian.md/plugins) 可能已有足够相似的现有插件，您可以与之合作。
 - 使用“使用此模板”按钮将此仓库克隆为模板（如果看不到该按钮，请登录 GitHub）。
 - 将仓库克隆到本地开发文件夹。为了方便，你可以将此文件夹放在 `.obsidian/plugins/your-plugin-name` 文件夹中。
 - 安装 NodeJS，然后在仓库文件夹下的命令行中运行 `npm i`。
@@ -91,7 +91,4 @@
 
 ## API 文档
 
-参见 https://github.com/obsidianmd/obsidian-api
-
-
-通过DeepL翻译 (https://dee.pl/app)
+参见 (https://github.com/obsidianmd/obsidian-api)
