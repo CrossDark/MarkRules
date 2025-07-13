@@ -3,7 +3,7 @@
 这是一个 Obsidian 的示例插件(https://obsidian.md)
 
 该项目使用 TypeScript 提供类型检查和文档支持。
-该仓库依赖于 TypeScript 定义格式下的最新插件 API（obsidian.d.ts），其中包含描述其功能的 TSDoc 注释。
+该仓库依赖于 TypeScript 定义格式下的最新插件 API(obsidian.d.ts),其中包含描述其功能的 TSDoc 注释。
 
 此示例插件演示了插件 API 能够实现的一些基本功能。
 - 添加一个 ribbon 图标，点击后显示一个通知。
@@ -16,7 +16,7 @@
 
 新插件开发者的快速入门指南：
 
-- 检查是否已有其他人开发了您需要的插件（https://obsidian.md/plugins）！可能已有足够相似的现有插件，您可以与之合作。
+- 检查是否已有其他人开发了您需要的插件(https://obsidian.md/plugins)！可能已有足够相似的现有插件，您可以与之合作。
 - 使用“使用此模板”按钮将此仓库克隆为模板（如果看不到该按钮，请登录 GitHub）。
 - 将仓库克隆到本地开发文件夹。为了方便，你可以将此文件夹放在 `.obsidian/plugins/your-plugin-name` 文件夹中。
 - 安装 NodeJS，然后在仓库文件夹下的命令行中运行 `npm i`。
@@ -39,7 +39,7 @@
 
 ## 将您的插件添加到社区插件列表
 
-- 查看 [插件指南](https://docs.obsidian.md/Plugins/Releasing/Plugin+guidelines)。
+- 查看 [插件指南](https://docs.obsidian.md/Plugins/Releasing/Plugin+guidelines)
 - 发布初始版本。
 - 确保您的仓库根目录下有一个 `README.md` 文件。
 - 通过 https://github.com/obsidianmd/obsidian-releases 提交拉取请求以添加您的插件。
